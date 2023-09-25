@@ -25,7 +25,7 @@
         .container-fluid{
             align-content: center !important;
             text-align: center !important;
-            background-color: transparent;
+            background-color: transparent !important;
             position: sticky;
             top: 0%;
            
