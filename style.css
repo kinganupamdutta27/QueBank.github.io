@@ -20,11 +20,14 @@
             background-size: 100% 100%;
             color: transparent !important;
             -webkit-background-clip: text;
+            
         }
         .container-fluid{
             align-content: center !important;
             text-align: center !important;
-            background-color: rgb(1, 27, 27);
+            background-color: transparent;
+            position: sticky;
+            top: 0%;
            
         }
         #mdiv2{
